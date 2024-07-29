@@ -1,0 +1,5 @@
+outs:
+- md5: 9b41542033f3d9f9cfd3687c1f62535d
+  size: 372539719
+  hash: md5
+  path: model.keras
